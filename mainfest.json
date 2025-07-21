@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.2.3",
+  "downloadUrl": "https://yourserver.com/downloads/MyApp_1.2.3.exe",
+  "changelog": [
+    "Added feature X",
+    "Fixed bug Y",
+    "Performance improvements"
+  ],
+  "mandatory": false,
+  "releaseDate": "2025-07-21"
+}
