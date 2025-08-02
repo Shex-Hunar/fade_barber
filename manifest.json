@@ -1,5 +1,7 @@
 {
   "latestVersion": "3",
   "downloadUrl": "https://yourserver.com/downloads/MyApp_1.2.3.exe",
-  "releaseDate": "2025-07-21"
+  "releaseDate": "2025-07-21",
+  "allowRun": "yes",
+  "licenseKey": "12345"
 }
